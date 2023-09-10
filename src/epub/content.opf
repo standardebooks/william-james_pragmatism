@@ -43,6 +43,8 @@
 		<meta property="se:subject">Nonfiction</meta>
 		<meta property="se:subject">Philosophy</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta id="collection-3" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
+		<meta property="collection-type" refines="#collection-3">set</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
