@@ -42,8 +42,8 @@
 		<meta property="term" refines="#subject-1">sh85106059</meta>
 		<meta property="se:subject">Nonfiction</meta>
 		<meta property="se:subject">Philosophy</meta>
-		<meta id="collection-3" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
-		<meta property="collection-type" refines="#collection-3">set</meta>
+		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">The philosophy of pragmatism is introduced and applied to some metaphysical problems.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Over the course of eight lectures originally delivered during the winter of 1906 and 1907 &lt;a href="https://standardebooks.org/ebooks/william-james"&gt;William James&lt;/a&gt; describes and defends the theory of pragmatism. Expanding on the earlier works of &lt;a href="https://standardebooks.org/ebooks/john-dewey"&gt;John Dewey&lt;/a&gt; and F. C. S. Schiller, James begins by presenting two competing views of the universe. The “rational” view treats everything as being derived from an absolute truth. Typically such a view is based on religious grounds, and the theories need not bear any relation to the imperfect world in which we live. James contends that this is not a useful world view, as it is not applicable to out everyday lives.&lt;/p&gt;
@@ -56,7 +56,6 @@
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.206383</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Pragmatism</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-james_pragmatism</meta>
 		<dc:creator id="author">William James</dc:creator>
 		<meta property="file-as" refines="#author">James, William</meta>
