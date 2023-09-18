@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/william-james/pragmatism</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-09-18T01:36:15Z</dc:date>
+		<meta property="dcterms:modified">2023-09-18T01:36:15Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -44,18 +44,18 @@
 		<meta property="se:subject">Philosophy</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:description id="description">The philosophy of pragmatism is introduced and applied to some metaphysical problems.</dc:description>
+		<dc:description id="description">James introduces the philosophy of pragmatism and applies it to some metaphysical problems.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Over the course of eight lectures originally delivered during the winter of 1906 and 1907 &lt;a href="https://standardebooks.org/ebooks/william-james"&gt;William James&lt;/a&gt; describes and defends the theory of pragmatism. Expanding on the earlier works of &lt;a href="https://standardebooks.org/ebooks/john-dewey"&gt;John Dewey&lt;/a&gt; and F. C. S. Schiller, James begins by presenting two competing views of the universe. The “rational” view treats everything as being derived from an absolute truth. Typically such a view is based on religious grounds, and the theories need not bear any relation to the imperfect world in which we live. James contends that this is not a useful world view, as it is not applicable to out everyday lives.&lt;/p&gt;
-			&lt;p&gt;On the other hand the “empirical” view considers as admissible only facts that have been materially verified. This view, while practical and useful, neglects anything that cannot be measured. It is fatalistic, and often pessimistic, reducing mankind to nothing more than an advanced animal.&lt;/p&gt;
-			&lt;p&gt;James describes pragmatism as a middle-ground between these two views. Under a pragmatic approach, statements are evaluated based on their practical effects. Based on this criteria empirical facts are valuable as they have obvious connections to everyday concerns. However, religion, or other more abstract principles, can also be useful as they can be applied to guide decision making in the common case where material evidence or direct knowledge is lacking. Following the definition of pragmatism, James applies it metaphysical problems, including the concepts of truth, common sense, and free-will versus determinism.&lt;/p&gt;
-			&lt;p&gt;Pragmatism was and remains an important philosophy. In addition to Schiller and Dewey, who applied a pragmatic approach to eduction and participatory democracy, many prominent thinkers have been influenced by pragmatism, including the sociologist &lt;a href="https://standardebooks.org/ebooks/w-e-b-du-bois"&gt;W. E. B. Du Bois&lt;/a&gt;.&lt;/p&gt;
+			&lt;p&gt;Over the course of eight lectures originally delivered during the winter of 1906 and 1907 &lt;a href="https://standardebooks.org/ebooks/william-james"&gt;William James&lt;/a&gt; describes and defends the theory of pragmatism. Expanding on the earlier works of &lt;a href="https://standardebooks.org/ebooks/john-dewey"&gt;John Dewey&lt;/a&gt; and F. C. S. Schiller, James begins by presenting two competing views of the universe. The “rational” view treats everything as being derived from an absolute truth. Typically this view is based on religious grounds, and the theories need not bear any relation to the imperfect world in which we live. James contends that this is not a useful world view, as it is not applicable to our everyday lives.&lt;/p&gt;
+			&lt;p&gt;On the other hand, the “empirical” view considers as admissible only facts that have been materially verified. This view, while practical and useful, neglects anything that cannot be measured. It is fatalistic, and often pessimistic, reducing mankind to nothing more than an advanced animal.&lt;/p&gt;
+			&lt;p&gt;James describes pragmatism as a middle-ground between these two views. Under a pragmatic approach, statements are evaluated based on their practical effects. Based on this criterion, empirical facts are valuable, as they have obvious connections to everyday concerns. However, religion, or other more abstract principles, can also be useful, as they can be applied to guide decision-making in the common case where material evidence or direct knowledge is lacking. After defining pragmatism, James applies it metaphysical problems, including the concepts of truth, common sense, and free will versus determinism.&lt;/p&gt;
+			&lt;p&gt;Pragmatism was and remains an important philosophy. In addition to Schiller and Dewey, who applied a pragmatic approach to education and participatory democracy, many prominent thinkers have been influenced by pragmatism, including the sociologist &lt;a href="https://standardebooks.org/ebooks/w-e-b-du-bois"&gt;W. E. B. Du Bois&lt;/a&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/5116</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.206383</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">51353</meta>
+		<meta property="se:reading-ease.flesch">49.86</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-james_pragmatism</meta>
 		<dc:creator id="author">William James</dc:creator>
 		<meta property="file-as" refines="#author">James, William</meta>
@@ -88,6 +88,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">wat</meta>
+		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-2">http://www.robinwhittleton.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
