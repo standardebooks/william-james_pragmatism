@@ -64,10 +64,10 @@
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
-		<dc:contributor id="artist">Vincent van Gogh</dc:contributor>
-		<meta property="file-as" refines="#artist">van Gogh, Vincent</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Vincent_van_Gogh</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/n79022935</meta>
+		<dc:contributor id="artist">Johannes Vermeer</dc:contributor>
+		<meta property="file-as" refines="#artist">Vermeer, Johannes</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Johannes_Vermeer</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/n79006488</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Steve Harris</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Harris, Steve</meta>
