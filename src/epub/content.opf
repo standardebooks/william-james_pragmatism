@@ -54,7 +54,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/5116</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.206383</dc:source>
-		<meta property="se:word-count">51353</meta>
+		<meta property="se:word-count">51077</meta>
 		<meta property="se:reading-ease.flesch">49.96</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-james_pragmatism</meta>
 		<dc:creator id="author">William James</dc:creator>
