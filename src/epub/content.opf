@@ -57,7 +57,7 @@
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.206383</dc:source>
 		<meta property="schema:wordCount">51077</meta>
 		<meta property="schema:educationalLevel">49.96</meta>
-		<meta property="schema:workExample" id="vcs-repository">schema:workExample</meta>
+		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/william-james_pragmatism" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">William James</dc:creator>
