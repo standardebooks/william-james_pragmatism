@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/william-james/pragmatism</dc:identifier>
 		<dc:date>2023-09-18T01:36:15Z</dc:date>
@@ -45,13 +45,13 @@
 		<meta property="schema:genre">Philosophy</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:description id="description">James introduces the philosophy of pragmatism and applies it to some metaphysical problems.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>James introduces the philosophy of pragmatism and applies it to some metaphysical problems.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Over the course of eight lectures originally delivered during the winter of 1906 and 1907 &lt;a href="https://standardebooks.org/ebooks/william-james"&gt;William James&lt;/a&gt; describes and defends the theory of pragmatism. Expanding on the earlier works of &lt;a href="https://standardebooks.org/ebooks/john-dewey"&gt;John Dewey&lt;/a&gt; and F. C. S. Schiller, James begins by presenting two competing views of the universe. The “rational” view treats everything as being derived from an absolute truth. Typically this view is based on religious grounds, and the theories need not bear any relation to the imperfect world in which we live. James contends that this is not a useful world view, as it is not applicable to our everyday lives.&lt;/p&gt;
 			&lt;p&gt;On the other hand, the “empirical” view considers as admissible only facts that have been materially verified. This view, while practical and useful, neglects anything that cannot be measured. It is fatalistic, and often pessimistic, reducing mankind to nothing more than an advanced animal.&lt;/p&gt;
 			&lt;p&gt;James describes pragmatism as a middle-ground between these two views. Under a pragmatic approach, statements are evaluated based on their practical effects. Based on this criterion, empirical facts are valuable, as they have obvious connections to everyday concerns. However, religion, or other more abstract principles, can also be useful, as they can be applied to guide decision-making in the common case where material evidence or direct knowledge is lacking. After defining pragmatism, James applies it to metaphysical problems, including the concepts of truth, common sense, and free will versus determinism.&lt;/p&gt;
 			&lt;p&gt;Pragmatism was and remains an important philosophy. In addition to Schiller and Dewey, who applied a pragmatic approach to education and participatory democracy, many prominent thinkers have been influenced by pragmatism, including the sociologist &lt;a href="https://standardebooks.org/ebooks/w-e-b-du-bois"&gt;W. E. B. Du Bois&lt;/a&gt;.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/5116</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.206383</dc:source>
