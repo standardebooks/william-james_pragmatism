@@ -45,7 +45,7 @@
 		<meta property="schema:genre">Philosophy</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:abstract>James introduces the philosophy of pragmatism and applies it to some metaphysical problems.</dc:abstract>
+		<meta property="schema:abstract">James introduces the philosophy of pragmatism and applies it to some metaphysical problems.</meta>
 		<dc:description>
 			&lt;p&gt;Over the course of eight lectures originally delivered during the winter of 1906 and 1907 &lt;a href="https://standardebooks.org/ebooks/william-james"&gt;William James&lt;/a&gt; describes and defends the theory of pragmatism. Expanding on the earlier works of &lt;a href="https://standardebooks.org/ebooks/john-dewey"&gt;John Dewey&lt;/a&gt; and F. C. S. Schiller, James begins by presenting two competing views of the universe. The “rational” view treats everything as being derived from an absolute truth. Typically this view is based on religious grounds, and the theories need not bear any relation to the imperfect world in which we live. James contends that this is not a useful world view, as it is not applicable to our everyday lives.&lt;/p&gt;
 			&lt;p&gt;On the other hand, the “empirical” view considers as admissible only facts that have been materially verified. This view, while practical and useful, neglects anything that cannot be measured. It is fatalistic, and often pessimistic, reducing mankind to nothing more than an advanced animal.&lt;/p&gt;
